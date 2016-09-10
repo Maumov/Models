@@ -1,0 +1,5 @@
+Aclarar conceptos de POO. (herencia, extender, implementar, interface, abstract, virtual, delegate, event,eventHandler)
+Que es "S.O.L.I.D".
+Que es y como usar "Web Services".
+Que es y como usar "SOA".
+QUe es y como usar "Unit Test".

@@ -1,0 +1,16 @@
+Operador Logisitico
+-Origenm origenes de despacho
+- tiempos de entrega
+-destinos de entrega
+-peso
+-tamaño del paquete
+-volumen minimo de despacho mensual
+-condiciones de entrega
+-politicas de devoluciones.
+
+Devoluciones:
+-por talla errada, (Usuario paga flete de devolucion) 2 dias
+-Daño fisico, (Cliente paga flete de devolucion) 2 dias
+-Producto Errado (Cliente paga flete de devolucion) 2 dias
+-Me retracto(Usuario paga flete de devolucion) 2 dias
+ 
